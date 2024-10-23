@@ -9,11 +9,11 @@
 ### Create AWS S3 _ Static website hosting solution and Real Time Example (Create your online resume ) 
 ## Assignment-6 Create EC2 machine with (Cento's / Amazon linux ) OS 4 click without key pair & Run 10+ Linux Commamd's
 
-### create a VPC and its components with automated options & understand the all component and delete the VPC and all components 
-### Create Only VPC baics but add Subnet + Routes + IG manually?
-### it will not work but at least create and attach to VPC 
-### understand IPV4 vs 10v6  and OSI layer's
-### Understand the Basics of Networking   read this Document
+### ✔ create a VPC and its components with automated options & understand the all component and delete the VPC and all components 
+### ✔ Create Only VPC baics but add Subnet + Routes + IG manually?
+### ✔ it will not work but at least create and attach to VPC 
+### ✔ understand IPV4 vs 10v6  and OSI layer's
+### ✔ Understand the Basics of Networking   read this Document
 
 ## Assignment 7:- create a EC2 instance (SQL Proxy server) with SSH key connect with mobaxtream and connect with RDS instance  MYSQL via End Point configuration like a Real time approach
 

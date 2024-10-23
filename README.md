@@ -1,6 +1,6 @@
 # clouddevopshub-Assignment
 
-### Assignment 1 :- Create a GCP account and share the screenshot + create your First ubuntu VM and login
+## Assignment 1 :- Create a GCP account and share the screenshot + create your First ubuntu VM and login
 ### Assignment 2  create your Second VM any OS  and login via clicking on ssh ...
 and share the screenshot
 ### Assignment 3 Run 20 Linux command's on ubuntu VM  

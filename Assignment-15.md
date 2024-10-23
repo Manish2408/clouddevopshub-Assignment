@@ -52,5 +52,11 @@ These plugins are crucial for building effective CI/CD pipelines, managing sourc
 
 ![image](https://github.com/user-attachments/assets/341afd6d-4f54-4b88-8887-97e0224bbf10)
 
+## Create your first hello-world container and understand all steps of docker architecture. 
+
+![image](https://github.com/user-attachments/assets/ccef2aef-d864-40ca-b9e0-e24f8e3221d7)
+
+
+
 
 
